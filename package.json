@@ -34,7 +34,7 @@
       "sharp"
     ],
     "onlyBuiltDependencies": [
-      "bcrypt"
+      "bcryptjs"
     ]
   }
 }
